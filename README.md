@@ -49,6 +49,11 @@ python Baseline_PCALightGBM_KFold.py
 
 For more details, please refer to the **2nd International Conference on Cognitive Computing, Intelligence and Data Science Applications** proceedings to access the full length paper.
 
+## Contact
+
+For any questions or inquiries, please contact the corresponding author:
+- **Ernest (Khashayar) Namdar**: [me@ernestnamdar.com](mailto:me@ernestnamdar.com)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
