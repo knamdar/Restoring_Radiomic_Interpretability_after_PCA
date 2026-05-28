@@ -311,7 +311,7 @@ original_subset = gain_importance_vector[0]
 # Print differences
 diff_vector = original_subset - mlp_estimate_subset
 diff_norm = np.linalg.norm(diff_vector)
-print(f"🔍 Norm of difference in first {pca.num_components_} PCs: {diff_norm:.6f}")
+print(f"Norm of difference in first {pca.num_components_} PCs: {diff_norm:.6f}")
 
 # Step: Overwrite first pca.num_components_ values in gain_importance_expanded
 gain_importance_expanded[0][:pca.num_components_] = gain_importance_vector[0]
